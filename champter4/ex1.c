@@ -7,6 +7,6 @@ int square (int x) {
 int main ( void ) {
 	int i;
 	for(i = 1; i <= 10; i++) {
-		printf("%d\n", square(i));
+		printf("%f\n", square(i));
 	}	
 }
