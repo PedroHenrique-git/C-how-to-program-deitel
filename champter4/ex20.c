@@ -22,7 +22,7 @@ void loopTentativa(int numeroSorteado) {
 }
 
 int main ( void ) {
-	int i, numero, primeiratentativa;
+	int numero, primeiratentativa;
 	char escolha;
 	
 	srand(time(NULL));
