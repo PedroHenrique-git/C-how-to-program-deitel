@@ -12,9 +12,9 @@ void loopTentativa(int numeroSorteado) {
 	while(tentativa != numeroSorteado) {
 		scanf("%d",&tentativa);
 		if(tentativa > numeroSorteado) {
-			printf("Muito alto\n");
+			printf("muito alto\n");
 		} else {
-			printf("Muito baixo\n");
+			printf("muito baixo\n");
 		}
 	}
 	
