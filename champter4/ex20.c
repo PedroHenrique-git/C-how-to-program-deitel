@@ -29,7 +29,7 @@ int main ( void ) {
 	
 	numero = sorteiaNumero();
 	
-	printf("Eu tenho um número entre 1 e 1000.\n");
+	printf("Eu tenho um numero entre 1 e 1000.\n");
 	printf("Voce consegue descobrir qual e?\n");
 	printf("Digite sua primeira tentativa.");
 	scanf("%d", &primeiratentativa);
