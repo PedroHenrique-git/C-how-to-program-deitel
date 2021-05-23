@@ -1,0 +1,7 @@
+1 pedro 10.00
+2 paulo 5.00
+4 simone 20.00
+5 jaldeir 14.00
+3 felipe 70.00
+3 felipe 0.00
+3 felipe -100.00
