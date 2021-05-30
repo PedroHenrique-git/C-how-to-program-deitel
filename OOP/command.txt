@@ -1,0 +1,1 @@
+g++ ex1.cpp GradeBook.cpp -o programa
