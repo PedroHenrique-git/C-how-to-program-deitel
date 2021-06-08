@@ -20,5 +20,5 @@ string GradeBook::getCourseName() {
 }
 
 void GradeBook::displayMessage() {
-    cout<<"Bem-vindo ao grade book para\n"<<getCourseName()<<"!"<<endl;
+    cout<<"\nBem-vindo ao grade book para\n"<<getCourseName()<<"!"<<endl;
 }
